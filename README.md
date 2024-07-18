@@ -1,4 +1,5 @@
 E-commerce Dashboard in Power BI
+
 This repository contains a Power BI project that visualizes e-commerce data from a CSV file. The dashboard provides insights into various key performance metrics including sales trends, customer demographics, product performance, and more.
 
 Features:
